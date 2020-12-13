@@ -42,7 +42,7 @@ namespace RockContent.Common.DAL
 
         public async Task<T> GetListAsync(object name, dynamic id)
         {
-            string sqlQuery = $"SELECT * FROM dbo.Activity WHERE {name} = {id} ";
+            string sqlQuery = $"SELECT * FROM features.Activity WHERE {name} = '{id}'";
             return await dbConnection.QuerySingleOrDefaultAsync<T>(sqlQuery, commandTimeout: 30);
         }
 
@@ -130,7 +130,7 @@ namespace RockContent.Common.DAL
                 string.Format(
                   "{0} = {1}{2}", p.Name, "@", p.Name));
 
-            return GetUpdateAndReturn("dbo.Like",
+            return GetUpdateAndReturn("features.Like",
               AppendStrings(setSql), $"ArticleId={parameters["ArticleId"]} AND UserId = {parameters["UserId"]}");
         }
 
@@ -152,7 +152,7 @@ namespace RockContent.Common.DAL
             var columnNames = columns.Select(p => p.Name);
             var parameters = columns.Select(p => "@" + p.Name);
 
-            return GetInsertAndReturnSql("dbo.Like", AppendStrings(columnNames), AppendStrings(parameters));
+            return GetInsertAndReturnSql("features.Like", AppendStrings(columnNames), AppendStrings(parameters));
         }
 
         private string AppendStrings(IEnumerable<string> list, string seperator = ",")
