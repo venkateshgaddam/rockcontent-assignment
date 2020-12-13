@@ -8,35 +8,24 @@ namespace RockContent.Common
         private readonly RedisConnector redisConnector;
 
         private readonly IDatabase _database;
-        
-        public RedisCacheRepository(RedisConnector redisConnector)
+
+        public RedisCacheRepository(RedisConnector redis)
         {
-            this.redisConnector = redisConnector;
-            _database = this.redisConnector?.GetDB;
+            this.redisConnector = redis;
+
+            //_database =   this.redisConnector?.GetDB;
         }
 
         public string GetRedisData(string redisKey)
         {
-            try
-            {
-                return _database.StringGet(redisKey).ToString();
-            }
-            catch (Exception ex)
-            {
-                throw new Exception(ex.Message);
-            }
+            return _database.StringGet(redisKey).ToString();
+
         }
 
         public void SetRedisData(string key, string value, TimeSpan? expiry = null)
         {
-            try
-            {
-                _database.StringSet(key, value, expiry);
-            }
-            catch (Exception ex)
-            {
-                throw new Exception(ex.Message);
-            }
+            _database.StringSet(key, value, expiry);
+
         }
     }
 }

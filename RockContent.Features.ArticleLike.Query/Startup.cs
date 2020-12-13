@@ -38,7 +38,7 @@ namespace RockContent.Features.ArticleLike.Query
                     HostName = redisConfig.HostName,
                     Key = redisConfig.Key,
                     Port = redisConfig.Port,
-                    SSL = redisConfig.SSL
+                    SSL = "true"
                 });
 
             services.AddCors(options =>

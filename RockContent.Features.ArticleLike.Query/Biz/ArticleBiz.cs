@@ -32,9 +32,9 @@ namespace RockContent.Features.ArticleLike.Query.Biz
                 var result = await articleDataService.GetArticleLikesCountAsync(articleId);
                 return result;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-
+                Console.WriteLine(ex.Message);
                 throw;
             }
            

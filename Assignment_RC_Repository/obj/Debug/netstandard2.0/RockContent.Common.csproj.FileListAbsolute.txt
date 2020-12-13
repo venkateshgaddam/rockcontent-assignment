@@ -16,3 +16,12 @@ C:\Users\VENKATESH\source\repos\CodingChallenge-RockContent\Assignment_RC_Reposi
 C:\Users\VENKATESH\source\repos\CodingChallenge-RockContent\Assignment_RC_Repository\obj\Debug\netstandard2.0\RockContent.Common.csproj.CoreCompileInputs.cache
 C:\Users\VENKATESH\source\repos\CodingChallenge-RockContent\Assignment_RC_Repository\obj\Debug\netstandard2.0\RockContent.Common.dll
 C:\Users\VENKATESH\source\repos\CodingChallenge-RockContent\Assignment_RC_Repository\obj\Debug\netstandard2.0\RockContent.Common.pdb
+E:\rockcontent-assignment\Assignment_RC_Repository\bin\Debug\netstandard2.0\RockContent.Common.deps.json
+E:\rockcontent-assignment\Assignment_RC_Repository\bin\Debug\netstandard2.0\RockContent.Common.dll
+E:\rockcontent-assignment\Assignment_RC_Repository\bin\Debug\netstandard2.0\RockContent.Common.pdb
+E:\rockcontent-assignment\Assignment_RC_Repository\obj\Debug\netstandard2.0\RockContent.Common.csprojAssemblyReference.cache
+E:\rockcontent-assignment\Assignment_RC_Repository\obj\Debug\netstandard2.0\RockContent.Common.AssemblyInfoInputs.cache
+E:\rockcontent-assignment\Assignment_RC_Repository\obj\Debug\netstandard2.0\RockContent.Common.AssemblyInfo.cs
+E:\rockcontent-assignment\Assignment_RC_Repository\obj\Debug\netstandard2.0\RockContent.Common.csproj.CoreCompileInputs.cache
+E:\rockcontent-assignment\Assignment_RC_Repository\obj\Debug\netstandard2.0\RockContent.Common.dll
+E:\rockcontent-assignment\Assignment_RC_Repository\obj\Debug\netstandard2.0\RockContent.Common.pdb
