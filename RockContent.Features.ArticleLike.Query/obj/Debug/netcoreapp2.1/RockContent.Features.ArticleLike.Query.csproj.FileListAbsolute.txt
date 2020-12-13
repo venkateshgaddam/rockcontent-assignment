@@ -1,0 +1,17 @@
+C:\Users\VENKATESH\source\repos\Assignment_Rock_Content\RockContent.Features.ArticleLike.Query\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\VENKATESH\source\repos\Assignment_Rock_Content\RockContent.Features.ArticleLike.Query\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\VENKATESH\source\repos\Assignment_Rock_Content\RockContent.Features.ArticleLike.Query\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\VENKATESH\source\repos\Assignment_Rock_Content\RockContent.Features.ArticleLike.Query\bin\Debug\netcoreapp2.1\RockContent.Features.ArticleLike.Query.deps.json
+C:\Users\VENKATESH\source\repos\Assignment_Rock_Content\RockContent.Features.ArticleLike.Query\bin\Debug\netcoreapp2.1\RockContent.Features.ArticleLike.Query.runtimeconfig.json
+C:\Users\VENKATESH\source\repos\Assignment_Rock_Content\RockContent.Features.ArticleLike.Query\bin\Debug\netcoreapp2.1\RockContent.Features.ArticleLike.Query.runtimeconfig.dev.json
+C:\Users\VENKATESH\source\repos\Assignment_Rock_Content\RockContent.Features.ArticleLike.Query\bin\Debug\netcoreapp2.1\RockContent.Features.ArticleLike.Query.dll
+C:\Users\VENKATESH\source\repos\Assignment_Rock_Content\RockContent.Features.ArticleLike.Query\obj\Debug\netcoreapp2.1\RockContent.Features.ArticleLike.Query.csprojAssemblyReference.cache
+C:\Users\VENKATESH\source\repos\Assignment_Rock_Content\RockContent.Features.ArticleLike.Query\obj\Debug\netcoreapp2.1\RockContent.Features.ArticleLike.Query.AssemblyInfoInputs.cache
+C:\Users\VENKATESH\source\repos\Assignment_Rock_Content\RockContent.Features.ArticleLike.Query\obj\Debug\netcoreapp2.1\RockContent.Features.ArticleLike.Query.AssemblyInfo.cs
+C:\Users\VENKATESH\source\repos\Assignment_Rock_Content\RockContent.Features.ArticleLike.Query\obj\Debug\netcoreapp2.1\RockContent.Features.ArticleLike.Query.RazorAssemblyInfo.cache
+C:\Users\VENKATESH\source\repos\Assignment_Rock_Content\RockContent.Features.ArticleLike.Query\obj\Debug\netcoreapp2.1\RockContent.Features.ArticleLike.Query.RazorAssemblyInfo.cs
+C:\Users\VENKATESH\source\repos\Assignment_Rock_Content\RockContent.Features.ArticleLike.Query\obj\Debug\netcoreapp2.1\RockContent.Features.ArticleLike.Query.RazorTargetAssemblyInfo.cache
+C:\Users\VENKATESH\source\repos\Assignment_Rock_Content\RockContent.Features.ArticleLike.Query\obj\Debug\netcoreapp2.1\RockContent.Features.ArticleLike.Query.genruntimeconfig.cache
+C:\Users\VENKATESH\source\repos\Assignment_Rock_Content\RockContent.Features.ArticleLike.Query\bin\Debug\netcoreapp2.1\RockContent.Common.dll
+C:\Users\VENKATESH\source\repos\Assignment_Rock_Content\RockContent.Features.ArticleLike.Query\bin\Debug\netcoreapp2.1\RockContent.Common.pdb
+C:\Users\VENKATESH\source\repos\Assignment_Rock_Content\RockContent.Features.ArticleLike.Query\obj\Debug\netcoreapp2.1\RockContent.Features.ArticleLike.Query.csproj.CopyComplete

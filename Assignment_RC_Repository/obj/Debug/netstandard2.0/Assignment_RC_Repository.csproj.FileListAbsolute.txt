@@ -1,0 +1,5 @@
+C:\Users\VENKATESH\source\repos\Assignment_RC_Repository\bin\Debug\netstandard2.0\Assignment_RC_Repository.deps.json
+C:\Users\VENKATESH\source\repos\Assignment_RC_Repository\bin\Debug\netstandard2.0\Assignment_RC_Repository.dll
+C:\Users\VENKATESH\source\repos\Assignment_RC_Repository\obj\Debug\netstandard2.0\Assignment_RC_Repository.csprojAssemblyReference.cache
+C:\Users\VENKATESH\source\repos\Assignment_RC_Repository\obj\Debug\netstandard2.0\Assignment_RC_Repository.AssemblyInfoInputs.cache
+C:\Users\VENKATESH\source\repos\Assignment_RC_Repository\obj\Debug\netstandard2.0\Assignment_RC_Repository.AssemblyInfo.cs

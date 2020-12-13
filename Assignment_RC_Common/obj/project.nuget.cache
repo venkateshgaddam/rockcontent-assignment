@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SI9v5+CaZAMuI0AKd4SeE2el+DehfufZdJ3h7cdPCIcKB3juJDkjxPFA/sOgj32VwxQ8iG+AuGG7PQ6DN2z/pQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VENKATESH\\source\\repos\\CodingChallenge-RockContent\\Assignment_RC_Common\\Assignment_RC_Common_Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VENKATESH\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\VENKATESH\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
