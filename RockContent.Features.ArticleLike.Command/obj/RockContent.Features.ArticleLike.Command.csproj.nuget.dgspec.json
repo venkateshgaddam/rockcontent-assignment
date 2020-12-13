@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VENKATESH\\source\\repos\\AWS-CodeCommit\\RockContent-CodingChallenge\\RockContent\\CodingChallenge-RockContent\\RockContent.Features.ArticleLike.Command\\RockContent.Features.ArticleLike.Command.csproj": {}
+    "E:\\rockcontent-assignment\\RockContent.Features.ArticleLike.Command\\RockContent.Features.ArticleLike.Command.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VENKATESH\\source\\repos\\AWS-CodeCommit\\RockContent-CodingChallenge\\RockContent\\CodingChallenge-RockContent\\Assignment_RC_Repository\\RockContent.Common.csproj": {
+    "E:\\rockcontent-assignment\\Assignment_RC_Repository\\RockContent.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VENKATESH\\source\\repos\\AWS-CodeCommit\\RockContent-CodingChallenge\\RockContent\\CodingChallenge-RockContent\\Assignment_RC_Repository\\RockContent.Common.csproj",
+        "projectUniqueName": "E:\\rockcontent-assignment\\Assignment_RC_Repository\\RockContent.Common.csproj",
         "projectName": "RockContent.Common",
-        "projectPath": "C:\\Users\\VENKATESH\\source\\repos\\AWS-CodeCommit\\RockContent-CodingChallenge\\RockContent\\CodingChallenge-RockContent\\Assignment_RC_Repository\\RockContent.Common.csproj",
+        "projectPath": "E:\\rockcontent-assignment\\Assignment_RC_Repository\\RockContent.Common.csproj",
         "packagesPath": "C:\\Users\\VENKATESH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VENKATESH\\source\\repos\\AWS-CodeCommit\\RockContent-CodingChallenge\\RockContent\\CodingChallenge-RockContent\\Assignment_RC_Repository\\obj\\",
+        "outputPath": "E:\\rockcontent-assignment\\Assignment_RC_Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VENKATESH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\VENKATESH\\source\\repos\\AWS-CodeCommit\\RockContent-CodingChallenge\\RockContent\\CodingChallenge-RockContent\\RockContent.Features.ArticleLike.Command\\RockContent.Features.ArticleLike.Command.csproj": {
+    "E:\\rockcontent-assignment\\RockContent.Features.ArticleLike.Command\\RockContent.Features.ArticleLike.Command.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VENKATESH\\source\\repos\\AWS-CodeCommit\\RockContent-CodingChallenge\\RockContent\\CodingChallenge-RockContent\\RockContent.Features.ArticleLike.Command\\RockContent.Features.ArticleLike.Command.csproj",
+        "projectUniqueName": "E:\\rockcontent-assignment\\RockContent.Features.ArticleLike.Command\\RockContent.Features.ArticleLike.Command.csproj",
         "projectName": "RockContent.Features.ArticleLike.Command",
-        "projectPath": "C:\\Users\\VENKATESH\\source\\repos\\AWS-CodeCommit\\RockContent-CodingChallenge\\RockContent\\CodingChallenge-RockContent\\RockContent.Features.ArticleLike.Command\\RockContent.Features.ArticleLike.Command.csproj",
+        "projectPath": "E:\\rockcontent-assignment\\RockContent.Features.ArticleLike.Command\\RockContent.Features.ArticleLike.Command.csproj",
         "packagesPath": "C:\\Users\\VENKATESH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VENKATESH\\source\\repos\\AWS-CodeCommit\\RockContent-CodingChallenge\\RockContent\\CodingChallenge-RockContent\\RockContent.Features.ArticleLike.Command\\obj\\",
+        "outputPath": "E:\\rockcontent-assignment\\RockContent.Features.ArticleLike.Command\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VENKATESH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\VENKATESH\\source\\repos\\AWS-CodeCommit\\RockContent-CodingChallenge\\RockContent\\CodingChallenge-RockContent\\Assignment_RC_Repository\\RockContent.Common.csproj": {
-                "projectPath": "C:\\Users\\VENKATESH\\source\\repos\\AWS-CodeCommit\\RockContent-CodingChallenge\\RockContent\\CodingChallenge-RockContent\\Assignment_RC_Repository\\RockContent.Common.csproj"
+              "E:\\rockcontent-assignment\\Assignment_RC_Repository\\RockContent.Common.csproj": {
+                "projectPath": "E:\\rockcontent-assignment\\Assignment_RC_Repository\\RockContent.Common.csproj"
               }
             }
           }

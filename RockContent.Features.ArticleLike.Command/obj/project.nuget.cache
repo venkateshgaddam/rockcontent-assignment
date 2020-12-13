@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hiLoZyx8KsfXmmG/RhEeXWCxOt9Ksfyk56kNTmZGF603WbeJsqviSln2S+Ei+MF6VDHUaB0918PbZ6u1lXuXuw==",
+  "dgSpecHash": "+RRyuFAKRd2SigF7Ovsxv+vQ5QxmGNA0yIRxwksGCUxQRe90hQKYuw5rPBBUPQzY7AHS1Vgd4cs8Hf5/1NauYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VENKATESH\\source\\repos\\AWS-CodeCommit\\RockContent-CodingChallenge\\RockContent\\CodingChallenge-RockContent\\RockContent.Features.ArticleLike.Command\\RockContent.Features.ArticleLike.Command.csproj",
+  "projectFilePath": "E:\\rockcontent-assignment\\RockContent.Features.ArticleLike.Command\\RockContent.Features.ArticleLike.Command.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VENKATESH\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\VENKATESH\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
